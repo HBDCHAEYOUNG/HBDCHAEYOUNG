@@ -18,16 +18,24 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
         <div style="margin: ; text-align: left;" "text-align: left;"> 
-    Languages: JavaScript, TypeScript
-Frameworks: React, Next.js
-State Management: Zustand, Jotai
-Data Fetching / Form: React Query, react-hook-form, Zod (validation)
-Styling: TailwindCSS, Sass, CSS Modules, shadcn/ui
-Backend: Next.js (API), Prisma (ORM), PostgreSQL / Supabase (database)
-Build & Bundling: Vite, Webpack, PostCSS
-Testing: Jest, React Testing Library, Cypress
-Version Control & Collaboration: Git, GitHub, GitHub Actions, PR-based workflow
-Tools & Others: Figma, Storybook, ESLint, Prettier, Postman
+
+### Frontend
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React, Next.js
+- **State Management:** Zustand, Jotai
+- **Data Fetching / Form:** React Query, react-hook-form, Zod (validation)
+- **Styling:** TailwindCSS, Sass, CSS Modules, shadcn/ui
+- **Testing:** Jest, Cypress
+
+### Backend
+- **Next.js API:** Built server-side APIs
+- **Prisma:** Used as ORM for database interactions
+- **Databases:** Supabase and PostgreSQL
+
+### Common / Tools
+- **Version Control:** Git (used for project management and collaboration)
+- **Tools:** Figma, Storybook, ESLint, Prettier, Postman
+  
         </div>
     </div>
     <div style="text-align: left;">
