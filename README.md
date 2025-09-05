@@ -1,6 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=240&text=Young GitHub!%20&animation=&fontColor=#000&fontSize=50" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Young%20GitGub!&fontSize=50)
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HBDCHAEYOUNG&utm_content=line">
