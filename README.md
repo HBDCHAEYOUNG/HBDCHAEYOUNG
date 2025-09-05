@@ -1,10 +1,16 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=240&text=안녕하세요%20👋🏻&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
-    
-    <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{HBDCHAEYOUNG}?pet-id=1" width="1000" height="120"/>
+</div>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HBDCHAEYOUNG&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/HBDCHAEYOUNG?pet-id=750752105859225708"
+    width="600"
+    height="120"
+  />
 </a>
+  
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 A Developer Who Loves to Learn </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 지금 이 순간에도 골방 어딘가에서 버그와 싸우며 성장 중인 프론트엔드 개발자 윤채영입니다.<br><br></li>저는 개발을 즐기며 끊임없이 성장하려는 개발자입니다.<br></li>부족한 부분을 채우고, 새로운 기술을 배우는 과정을 즐기며 더 나은 코드를 작성하고자 합니다.<br><br></li>실패와 성장의 흔적은👉 [My Dev Blog](https://devyoon02.tistory.com)  </li>에서 자세히 확인하실 수 있어요! <br>공부하면서 부딪히고, 고민하고, 깨달은 순간들을 기록했습니다.</li> </div> 
