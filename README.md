@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=240&text=안녕하세요%20👋🏻&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{HBDCHAEYOUNG}?pet-id=1" width="1000" height="120"/>
 </a>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 A Developer Who Loves to Learn </h2>  
