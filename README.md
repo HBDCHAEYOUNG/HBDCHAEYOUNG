@@ -17,12 +17,18 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
-          <br/></div>
+        <div style="margin: ; text-align: left;" "text-align: left;"> 
+    Languages: JavaScript, TypeScript
+Frameworks: React, Next.js
+State Management: Zustand, Jotai
+Data Fetching / Form: React Query, react-hook-form, Zod (validation)
+Styling: TailwindCSS, Sass, CSS Modules, shadcn/ui
+Backend: Next.js (API), Prisma (ORM), PostgreSQL / Supabase (database)
+Build & Bundling: Vite, Webpack, PostCSS
+Testing: Jest, React Testing Library, Cypress
+Version Control & Collaboration: Git, GitHub, GitHub Actions, PR-based workflow
+Tools & Others: Figma, Storybook, ESLint, Prettier, Postman
+        </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
