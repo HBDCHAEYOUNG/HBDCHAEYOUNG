@@ -43,6 +43,6 @@
     </div>
     <div style="text-align: left;"> 
     
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=HBDCHAEYOUNG&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBDCHAEYOUNG&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/> </div> 
+
 </div>
     
