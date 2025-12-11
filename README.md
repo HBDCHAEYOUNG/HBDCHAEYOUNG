@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World!&fontSize=50)
+<!-- Header Full Width -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Young%20GitHub!&fontSize=50&color=AECBFA"
+  style="width: 100%; display: block;"
+/>
 
-
+<!-- keep this as-is -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HBDCHAEYOUNG&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/HBDCHAEYOUNG?pet-id=750752105859225708"
@@ -8,41 +12,28 @@
     height="120"
   />
 </a>
-  
 
-<br>
-<br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-<div style="margin: ; text-align: left;" "text-align: left;"> 
+<!-- Use align="center" for best GitHub README compatibility -->
+<div align="center">
+  <h2 >
+    👋🏻 I'm Young     
+  <div>  
+    <a href="https://www.canva.com/design/DAG6VRfM9Xc/xV6jT17p2Gj7SaFXiFl61A/edit?utm_content=DAG6VRfM9Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.canva.com/design/DAG6VRfM9Xc/xV6jT17p2Gj7SaFXiFl61A/edit?utm_content=DAG6VRfM9Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
+  </h2>
 
-### Frontend
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Next.js
-- **State Management:** Zustand, Jotai
-- **Data Fetching / Form:** React Query, react-hook-form, Zod (validation)
-- **Styling:** TailwindCSS, Sass, CSS Modules, shadcn/ui
-- **Testing:** Jest, Cypress
 
-### Backend
-- **Next.js API:** Built server-side APIs
-- **Prisma:** Used as ORM for database interactions
-- **Databases:** Supabase and PostgreSQL
 
-### Common / Tools
-- **Version Control:** Git (used for project management and collaboration)
-- **Tools:** Figma, Storybook, ESLint, Prettier, Postman
+
+  <div>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" alt="react"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="js"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="ts"/>
+  </div>
 </div>
-    </div>
-    <div style="text-align: left;">
-<br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <div style="text-align: left;"> <a href=mailto:devyoon02@gmaiil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devyoon02@gmaiil.com"> </a>
-         <a href=https://devyoon02.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devyoon02.tistory.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    
-
-</div>
-    
