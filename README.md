@@ -15,7 +15,7 @@
     <a href="https://www.canva.com/design/DAG6VRfM9Xc/xV6jT17p2Gj7SaFXiFl61A/edit?utm_content=DAG6VRfM9Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
       <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.canva.com/design/DAG6VRfM9Xc/xV6jT17p2Gj7SaFXiFl61A/edit?utm_content=DAG6VRfM9Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <a href="mailto:devyoon02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
  </div>
